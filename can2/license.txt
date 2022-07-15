@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cool-Ayyd Soda Can
+* source:	https://sketchfab.com/3d-models/cool-ayyd-soda-can-a253b66202a64a56840ea4eb131e4fff
+* author:	chickenpants93 (https://sketchfab.com/chickenpants93)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cool-Ayyd Soda Can" (https://sketchfab.com/3d-models/cool-ayyd-soda-can-a253b66202a64a56840ea4eb131e4fff) by chickenpants93 (https://sketchfab.com/chickenpants93) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

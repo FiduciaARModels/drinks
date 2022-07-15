@@ -1,0 +1,11 @@
+Model Information:
+* title:	Can - canette
+* source:	https://sketchfab.com/3d-models/can-canette-d0be4f93e59e4d4c970c9f4e37c03fd0
+* author:	ImaGeniusMan (https://sketchfab.com/ImaGeniusMan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Can - canette" (https://sketchfab.com/3d-models/can-canette-d0be4f93e59e4d4c970c9f4e37c03fd0) by ImaGeniusMan (https://sketchfab.com/ImaGeniusMan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
